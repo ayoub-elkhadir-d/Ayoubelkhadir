@@ -31,10 +31,9 @@ Hello ✨
 
 ---
 
-## ✨ Fun Activities
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Fun Animation">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Fun Animation">
+  <img src="https://giphy.com/stickers/Plan-Ceibal-transparent-WWZecQdICRTNKLCT0V" width="400" alt="Fun Animation">
+  
 </p>
 
 ---
