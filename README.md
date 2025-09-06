@@ -13,7 +13,7 @@ Hello ✨
 
 <p align="center">
   <a href="https://wa.me/+212601040360" target="_blank">
-    <img src="https://media.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="70" alt="WhatsApp Animated">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://www.facebook.com/share/19ZW5FFuWc/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -26,7 +26,7 @@ Hello ✨
 ---
 
 ## 🚀 About Me
-- 🌱 Learning modern web and software development
+- 🌱 Learning modern web and mobile development
 - 💻 Enjoy building practical projects
 - 🎨 Love designing attractive and interactive UIs
 
