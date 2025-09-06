@@ -18,7 +18,7 @@ Hello ✨
     <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHp5d2JoczVjcDZtbXNrZzc0MGxhYXJ6YnZtdWN2YTRpNGx6cnVmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ul9yFqTCwBTtMcd3jB/giphy.gif" alt="Facebook" width="70" >
   </a>
   <a href="mailto:ayoubelkhadirdev@gmail.com" target="_blank">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydzFiaHhmZWZpdjJ2dWoybDY1c24zdDk2b2phZDE1eXEwdDVmczZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" alt="Gmail">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydzFiaHhmZWZpdjJ2dWoybDY1c24zdDk2b2phZDE1eXEwdDVmczZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxlbRn0HuTW7gZID83/giphy.gif" width="70" alt="Gmail">
   </a>
 </p>
 
