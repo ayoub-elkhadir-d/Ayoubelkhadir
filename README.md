@@ -1,7 +1,7 @@
 # 👋 I'm   Ayoub Elkhadir
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydnV5b3c3MWJzMjZmd2UzdzBmanYxYW1hb3dmNHNpd2czcWFqcTl6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.gif" alt="Ayoub Elkhadir" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydnV5b3c3MWJzMjZmd2UzdzBmanYxYW1hb3dmNHNpd2czcWFqcTl6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.gif" alt="Ayoub Elkhadir" width="200">
 </p>
 
 Hello ✨  
@@ -32,10 +32,7 @@ Hello ✨
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyY244dWV1cGo3MnVnczBxMjF2bmN0bzlheWk1eDFnZmV2eTZianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="400" alt="Fun Animation">
-  
-</p>
+
 
 ---
 
