@@ -32,7 +32,7 @@ Hello ✨
 ---
 
 <p align="center">
-  <img src="https://giphy.com/stickers/Plan-Ceibal-transparent-WWZecQdICRTNKLCT0V" width="400" alt="Fun Animation">
+  <img src="https://giphy.com/stickers/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M" width="400" alt="Fun Animation">
   
 </p>
 
