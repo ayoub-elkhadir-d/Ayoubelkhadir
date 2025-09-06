@@ -1,9 +1,14 @@
-# 👋 مرحباً! أنا Ayoub Elkhadir
-hello ✨ 
+# 👋 Hello! I'm  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Ayoub Elkhadir" width="400">
+</p>
+
+Hello ✨  
 
 ---
 
-## 🌟Contact
+## 🌟 Contact
 
 <p align="center">
   <a href="https://wa.me/+212601040360" target="_blank">
@@ -12,18 +17,21 @@ hello ✨
   <a href="https://www.facebook.com/share/19ZW5FFuWc/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="ayoubelkhadirdev@gmail.com" target="_blank">
+  <a href="mailto:ayoubelkhadirdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-
+## 🚀 About Me
+- 🌱 Learning modern web and software development
+- 💻 Enjoy building practical projects
+- 🎨 Love designing attractive and interactive UIs
 
 ---
 
-## ✨ نشاطات ممتعة
+## ✨ Fun Activities
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Fun Animation">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Fun Animation">
@@ -31,5 +39,5 @@ hello ✨
 
 ---
 
-شكراً لزيارتك! 🌟  
-دعنا نتواصل ونتشارك الأفكار 💬
+Thanks for visiting! 🌟  
+Let's connect and share ideas 💬
