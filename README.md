@@ -12,10 +12,10 @@ Hello ✨
 
 <p align="center">
   <a href="https://wa.me/+212601040360" target="_blank">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjQ1YmF1cjVoMjhyaWhzNDdpMXRtcGF3a3ZoZHQ5OWFzNmlqNmJoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EY5vE2mzY2BqWAblWD/giphy.gif" width="70" alt="WhatsApp Animated">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybjQ1YmF1cjVoMjhyaWhzNDdpMXRtcGF3a3ZoZHQ5OWFzNmlqNmJoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EY5vE2mzY2BqWAblWD/giphy.gif" width="120" alt="WhatsApp Animated">
   </a>
   <a href="https://www.facebook.com/share/19ZW5FFuWc/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHp5d2JoczVjcDZtbXNrZzc0MGxhYXJ6YnZtdWN2YTRpNGx6cnVmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ul9yFqTCwBTtMcd3jB/giphy.gif" alt="Facebook">
   </a>
   <a href="mailto:ayoubelkhadirdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
