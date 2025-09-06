@@ -32,7 +32,7 @@ Hello ✨
 ---
 
 <p align="center">
-  <img src="https://giphy.com/stickers/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M" width="400" alt="Fun Animation">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyY244dWV1cGo3MnVnczBxMjF2bmN0bzlheWk1eDFnZmV2eTZianZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="400" alt="Fun Animation">
   
 </p>
 
